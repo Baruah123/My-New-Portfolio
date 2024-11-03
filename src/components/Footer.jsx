@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
                 {/* Company Info */}
                 <div className="space-y-4">
-                    <h2 className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">Your Company</h2>
+                    <h2 className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">Avoy Baruah</h2>
                     <p className="text-gray-400 leading-relaxed">
                         Empowering innovation through technology and creative solutions.
                     </p>
