@@ -38,7 +38,7 @@ function Header() {
           <div className="relative group">
             <div className="absolute inset-0 bg-blue-400 rounded-full blur-xl opacity-50 group-hover:opacity-75 transition-opacity"></div>
             <img
-              src="\src\assets\avoy.jpg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8yZ2L_os8yGUnnAltT9fcdf1BFIbSD2tjg&s"
               alt="Profile"
               className="relative w-52 h-52 md:w-64 md:h-64 rounded-full border-4 border-white/80 shadow-2xl hover:scale-105 transition-transform duration-300"
             />
