@@ -12,7 +12,7 @@ function Projects() {
     {
       title: 'Examination Platform',
       description: 'A platform for students to practice and prepare for exams, featuring AI-powered question analysis and personalized study plans.',
-      link: 'https://exam-master-gamma.vercel.app/',
+      link: 'https://exam-master-pearl.vercel.app/',
       tags: ['Next.js', 'MongoDB', 'Stripe'],
       color: 'from-purple-500 to-indigo-700'
     },
