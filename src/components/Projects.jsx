@@ -31,10 +31,10 @@ function Projects() {
       color: 'from-blue-500 to-cyan-700'
     },
     {
-      title: 'CulinaryCompass',
-      description: 'A recipe discovery app with AR cooking instructions and smart kitchen device integration.',
-      link: '#',
-      tags: ['React', 'AR.js', 'Express'],
+      title: 'Blockchain-Gallery',
+      description: 'Blockchain Gallery is a cutting-edge platform revolutionizing the way art and collectibles are created, shared, and owned.',
+      link: 'https://blockchain-gallery.vercel.app/',
+      tags: ['React', 'Blockchain', 'Express'],
       color: 'from-amber-500 to-orange-700'
     }
   ];
